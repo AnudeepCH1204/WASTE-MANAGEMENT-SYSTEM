@@ -55,11 +55,6 @@ To set up the project locally, you'll need:
 
 Thanks to all the contributors who have helped improve this project. 
 
- <a href = "https://github.com/imlakshay08/waste-management-system/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=imlakshay08/waste-management-system"/>
- </a>
- 
-[View Contributors](https://github.com/imlakshay08/waste-management-system/graphs/contributors)
 
 ### Additional Resources:
 
